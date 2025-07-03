@@ -1,0 +1,43 @@
+[
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/customers.csv",
+	"file_name" : "customers.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/items.csv",
+	"file_name" : "items.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/location.csv",
+	"file_name" : "location.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/orders.csv",
+	"file_name" : "orders.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/payments.csv",
+	"file_name" : "payments.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/products.csv",
+	"file_name" : "products.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/reviews.csv",
+	"file_name" : "reviews.csv"
+	},
+
+	{
+	"github_relative_reference": "Azure-Data-Engineering-Project/refs/heads/main/datasets/sellers.csv",
+	"file_name" : "sellers.csv"
+	}
+
+]
