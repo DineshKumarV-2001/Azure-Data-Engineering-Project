@@ -2,4 +2,5 @@
 
 Pipeline Created & Executed Successfully
 
-![image](https://github.com/user-attachments/assets/7ab25f9b-b8f8-49c9-b65e-b81e06eb63d9)
+![image](https://github.com/user-attachments/assets/3d3c7666-ad47-43ad-b40d-5b07757e1269)
+
