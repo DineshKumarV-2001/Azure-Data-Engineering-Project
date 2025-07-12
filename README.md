@@ -92,13 +92,18 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1384" height="394" alt="image" src="https://github.com/user-attachments/assets/20490072-8ca8-4b6e-b702-382568211065" />
 
 
--Structuring Columns: Grouped fields logically.
+- Structuring Columns: Grouped fields logically.
 
 
 <img width="1369" height="170" alt="image" src="https://github.com/user-attachments/assets/cefa065d-d2fb-46ab-8629-bf05294486d2" />
 
+- Data Cleaning :
 
-# Feature Engineering:
+
+<img width="1317" height="149" alt="image" src="https://github.com/user-attachments/assets/bdce03cd-8ca3-4551-b056-077866a3d00d" />
+
+
+# 8️⃣ Feature Engineering
 
 - Filling Null Columns with Respective Values 
 
@@ -115,7 +120,7 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1367" height="421" alt="image" src="https://github.com/user-attachments/assets/64f51abb-e902-4465-b588-49d6b2aeca4c" />
 
 
-# Business Insights :
+# 9️⃣ Business Insight :
 
 - Analyzing delivery performance (Delivery Gap Analysis): 
 
@@ -130,6 +135,15 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 <img width="1338" height="418" alt="image" src="https://github.com/user-attachments/assets/d9a985d3-9dd5-46dd-93f8-42c898adc401" />
 
+
+# 🔟 Data Serving :
+
+- Saved the final aggregated datasets to Gold Layer in Delta format.
+
+- Partitioned datasets based on Customer Segmentation.
+
+
+  <img width="1319" height="309" alt="image" src="https://github.com/user-attachments/assets/46d8b936-941b-4b90-803e-7cfc564d5b26" />
 
 
 
