@@ -7,7 +7,8 @@ This project demonstrates an end-to-end ETL pipeline built on Azure, processing 
 
 # 🔁 Project Architecture
 
-<img width="1015" height="567" alt="image" src="https://github.com/user-attachments/assets/9109bd47-026c-4b31-9ac8-bcb487f78a75" />
+<img width="1011" height="568" alt="image" src="https://github.com/user-attachments/assets/a2d804a7-aab4-4bbf-8f71-f810263c7900" />
+
 
 # ⚙️ Tools & Technologies
 
