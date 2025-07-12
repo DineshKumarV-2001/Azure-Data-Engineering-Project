@@ -1,10 +1,10 @@
 # Azure-Data-Engineering-Project
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project demonstrates an end-to-end ETL pipeline built on Azure, processing the Olist eCommerce dataset using Azure Data Factory, Azure Databricks (PySpark), and Azure Data Lake Storage Gen2. It follows a modern medallion architecture (Bronze, Silver, Gold) for layered data management.
 
-⚙️ Tools & Technologies
+# ⚙️ Tools & Technologies
 
 Azure Data Factory (ADF)
 
@@ -17,12 +17,12 @@ Delta Lake / Parquet
 Python / PySpark
 
 
-🧭 ETL Architecture
+# 🧭 ETL Architecture
 
 <img width="676" height="236" alt="image" src="https://github.com/user-attachments/assets/1d380822-1f9e-43dd-84af-80ce90028eb5" />
 
               
-1️⃣ Data Extraction
+# 1️⃣ Data Extraction
 
 Linked ADLS Gen2 to ADF using service principal authentication.
 
@@ -30,7 +30,7 @@ Created ADF pipelines to load .csv files from blob into Bronze Layer in ADLS Gen
 
 ![image](https://github.com/user-attachments/assets/3d3c7666-ad47-43ad-b40d-5b07757e1269)
 
-2️⃣ Data Exploration / EDA
+# 2️⃣ Data Exploration / EDA
 
 Loaded data into PySpark DataFrames.
 
@@ -47,7 +47,7 @@ Loaded data into PySpark DataFrames.
 <img width="1385" height="763" alt="image" src="https://github.com/user-attachments/assets/9710b4c7-8911-441b-973d-26848a2c0bb7" />
 
 
-3️⃣ Data Validation / Quality Analysis
+# 3️⃣ Data Validation / Quality Analysis
 
 - Validated: Null values, Column types, Uniqueness and referential integrity
 
@@ -58,7 +58,7 @@ Loaded data into PySpark DataFrames.
 
 
 
-4️⃣ Data Curation
+# 4️⃣ Data Curation
 
 - Selected necessary columns from each dataset, Renamed columns and applied logical grouping, Joined key datasets.
 
@@ -74,7 +74,7 @@ Loaded data into PySpark DataFrames.
 
 
 
-5️⃣ Optimization
+# 5️⃣ Optimization
 
 Applied .cache() on final joined DataFrame to optimize repeated usage.
 
@@ -84,7 +84,7 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 
 
-7️⃣ Data Transformation
+# 7️⃣ Data Transformation
 
 - Renaming Columns: Used .withColumnRenamed() for clarity.
   
@@ -98,9 +98,9 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1369" height="170" alt="image" src="https://github.com/user-attachments/assets/cefa065d-d2fb-46ab-8629-bf05294486d2" />
 
 
-Feature Engineering:
+# Feature Engineering:
 
--Filling Null Columns with Respective Values 
+- Filling Null Columns with Respective Values 
 
 
 <img width="1387" height="490" alt="image" src="https://github.com/user-attachments/assets/fdf9801e-60fb-4a31-887d-2c312da9f822" />
@@ -115,7 +115,7 @@ Feature Engineering:
 <img width="1367" height="421" alt="image" src="https://github.com/user-attachments/assets/64f51abb-e902-4465-b588-49d6b2aeca4c" />
 
 
-Business Insights :
+# Business Insights :
 
 - Analyzing delivery performance (Delivery Gap Analysis): 
 
