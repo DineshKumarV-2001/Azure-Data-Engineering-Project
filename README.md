@@ -4,6 +4,11 @@
 
 This project demonstrates an end-to-end ETL pipeline built on Azure, processing the Olist eCommerce dataset using Azure Data Factory, Azure Databricks (PySpark), and Azure Data Lake Storage Gen2. It follows a modern medallion architecture (Bronze, Silver, Gold) for layered data management.
 
+
+# 🔁 Project Architecture
+
+<img width="1015" height="567" alt="image" src="https://github.com/user-attachments/assets/9109bd47-026c-4b31-9ac8-bcb487f78a75" />
+
 # ⚙️ Tools & Technologies
 
 Azure Data Factory (ADF)
