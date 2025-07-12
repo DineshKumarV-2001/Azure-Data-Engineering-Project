@@ -1,16 +1,34 @@
 # Azure-Data-Engineering-Project
 
-🔧 Tools & Technologies:
+📌 Project Overview
+
+This project demonstrates an end-to-end ETL pipeline built on Azure, processing the Olist eCommerce dataset using Azure Data Factory, Azure Databricks (PySpark), and Azure Data Lake Storage Gen2. It follows a modern medallion architecture (Bronze, Silver, Gold) for layered data management.
+
+⚙️ Tools & Technologies
 
 Azure Data Factory (ADF)
 
 Azure Databricks (PySpark)
 
-Azure Data Lake Storage Gen2
+Azure Data Lake Storage Gen2 (ADLS Gen2)
 
-Delta Lake, Parquet
+Delta Lake / Parquet
 
-Python, PySpark, DataFrame API
+Python / PySpark
+
+
+🧭 ETL Architecture
+
+ Source (CSV) ──▶ ADF ──▶ ADLS Gen2 (Bronze Layer)
+                           │
+                           ▼
+                   Azure Databricks (PySpark)
+                           │
+                           ▼
+              ADLS Gen2 (Silver & Gold Layers)
+              
+
+              
 
 Azure Data Factory (ADF) : Pipeline Overview: 
 
