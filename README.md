@@ -18,8 +18,6 @@ Azure Databricks (PySpark)
 
 Azure Data Lake Storage Gen2 (ADLS Gen2)
 
-Delta Lake / Parquet
-
 Python / PySpark
 
 
