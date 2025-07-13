@@ -45,7 +45,7 @@ Loaded data into PySpark DataFrames.
 <img width="2486" height="1496" alt="image" src="https://github.com/user-attachments/assets/00782ce0-aae5-480b-ba02-a5b615d51d20" />
 
 
-- Performed schema inference, null checks, and profiling.
+- Performed schema inference (not recommended for Real-Time Use-Case), Prefer - Manual Schema using **StructType**.
   
 
 <img width="1385" height="763" alt="image" src="https://github.com/user-attachments/assets/9710b4c7-8911-441b-973d-26848a2c0bb7" />
