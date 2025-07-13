@@ -30,7 +30,7 @@ Python / PySpark
 
 Linked ADLS Gen2 to ADF using service principal authentication.
 
-Created ADF pipelines to load .csv files from blob into Bronze Layer in ADLS Gen2.
+Created ADF pipelines to load .csv files from http(github) into Bronze Layer in ADLS Gen2.
 
 ![image](https://github.com/user-attachments/assets/3d3c7666-ad47-43ad-b40d-5b07757e1269)
 
