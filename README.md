@@ -122,10 +122,6 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1349" height="293" alt="image" src="https://github.com/user-attachments/assets/403d1fb7-93a1-492f-9a06-176864a7811d" />
 
 
-- Caculating Average Order Value ( AOV = Total_Spent / Total_Orders )
-
-
-<img width="1367" height="421" alt="image" src="https://github.com/user-attachments/assets/64f51abb-e902-4465-b588-49d6b2aeca4c" />
 
 
 # 🔟 Business Insight :
@@ -135,13 +131,7 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 <img width="1340" height="682" alt="image" src="https://github.com/user-attachments/assets/5deb4433-2b4b-4662-8b44-66570790f450" />
 
-- Customer Segmentation ( Based on AOV ) : 
 
-
-<img width="1343" height="745" alt="image" src="https://github.com/user-attachments/assets/6754ace6-3a20-4e37-bd80-3b3c518dc9b8" />
-
-
-<img width="1338" height="418" alt="image" src="https://github.com/user-attachments/assets/d9a985d3-9dd5-46dd-93f8-42c898adc401" />
 
 
 # 1️⃣1️⃣ Data Serving to Gold Layer :
