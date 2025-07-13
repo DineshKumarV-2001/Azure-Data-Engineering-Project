@@ -48,7 +48,9 @@ Loaded data into PySpark DataFrames.
 - Performed schema inference (not recommended for Real-Time Use-Case), Prefer - Manual Schema using **StructType**.
   
 
-<img width="1385" height="763" alt="image" src="https://github.com/user-attachments/assets/9710b4c7-8911-441b-973d-26848a2c0bb7" />
+<img width="626" height="241" alt="image" src="https://github.com/user-attachments/assets/eaed8bd2-4f74-42cf-9425-71d72b32b654" />
+
+<img width="614" height="525" alt="image" src="https://github.com/user-attachments/assets/dd9aa7b0-9017-4c8b-b7d2-a2fadbc229da" />
 
 
 # 3️⃣ Data Validation / Quality Analysis
@@ -58,7 +60,8 @@ Loaded data into PySpark DataFrames.
 <img width="1326" height="426" alt="image" src="https://github.com/user-attachments/assets/9efce441-d943-45e6-9a49-5d1f72c26ebf" />
 
 
-<img width="1329" height="643" alt="image" src="https://github.com/user-attachments/assets/19116027-779a-4216-a4e9-fe19b8e59836" />
+<img width="547" height="636" alt="image" src="https://github.com/user-attachments/assets/f708c976-45c9-4e1d-ba24-3c6c267f8b30" />
+
 
 
 
@@ -74,7 +77,8 @@ Loaded data into PySpark DataFrames.
   
 
 
-<img width="1317" height="291" alt="image" src="https://github.com/user-attachments/assets/d4f855b7-c794-4357-9985-8cd6bddb3701" />
+<img width="907" height="292" alt="image" src="https://github.com/user-attachments/assets/332af3c6-c718-4445-9d8f-be33d1bda8c2" />
+
 
 
 
@@ -93,22 +97,25 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 - Renaming Columns: Used .withColumnRenamed() for clarity.
   
 
-<img width="1384" height="394" alt="image" src="https://github.com/user-attachments/assets/20490072-8ca8-4b6e-b702-382568211065" />
+<img width="941" height="344" alt="image" src="https://github.com/user-attachments/assets/86e5f9bc-60b7-4a9f-b2a8-58b8d417e8d0" />
+
 
 
 - Structuring Columns: Grouped fields logically.
 
+<img width="914" height="131" alt="image" src="https://github.com/user-attachments/assets/eae1b6c1-6424-4750-83ee-c5f8f38a29e9" />
 
-<img width="1369" height="170" alt="image" src="https://github.com/user-attachments/assets/cefa065d-d2fb-46ab-8629-bf05294486d2" />
 
 - Data Cleaning :
 
+<img width="493" height="99" alt="image" src="https://github.com/user-attachments/assets/d26dd415-6737-4527-9600-a346c517d890" />
 
-<img width="1317" height="149" alt="image" src="https://github.com/user-attachments/assets/bdce03cd-8ca3-4551-b056-077866a3d00d" />
 
 # 8️⃣ Data Serving to Silver Layer :
 
-<img width="1318" height="396" alt="image" src="https://github.com/user-attachments/assets/5581743e-b05b-4b46-9bae-1e43f76e4e89" />
+<img width="929" height="105" alt="image" src="https://github.com/user-attachments/assets/efd93900-66e7-43c0-a386-26f650deef60" />
+
+<img width="571" height="280" alt="image" src="https://github.com/user-attachments/assets/104274db-bfba-478a-898c-e97ded7949be" />
 
 
 # 9️⃣ Feature Engineering
@@ -147,7 +154,8 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 - Partitioned datasets based on Customer Segmentation.
 
-<img width="641" height="381" alt="image" src="https://github.com/user-attachments/assets/a3af3a88-5bef-4764-a2ad-40651dce30f4" />
+<img width="521" height="330" alt="image" src="https://github.com/user-attachments/assets/4dda3a4e-3acc-46e6-9bc5-873f3a6970e6" />
+
 
 
 
