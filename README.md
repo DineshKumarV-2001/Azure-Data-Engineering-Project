@@ -139,15 +139,6 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 <img width="768" height="377" alt="image" src="https://github.com/user-attachments/assets/2a1be756-f62a-497a-9ba7-690ed94d9a4b" />
 
-<img width="498" height="202" alt="image" src="https://github.com/user-attachments/assets/b8fce979-0471-48a2-8b9b-d9f278b9c103" />
-
-<img width="1874" height="809" alt="image" src="https://github.com/user-attachments/assets/5794f51a-a8f6-4e62-82ad-bc6b9039d83d" />
-
-- Top Sellers Based on Total Reviews Scores.
-
-<img width="697" height="744" alt="image" src="https://github.com/user-attachments/assets/fc147a3c-b60c-463a-ab54-0b73fa8b2a84" />
-
-<img width="1870" height="805" alt="image" src="https://github.com/user-attachments/assets/cc42f156-b1a7-42a5-ae7a-b1a343872434" />
 
 
 # 🔟 Business Insight :
@@ -161,6 +152,16 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 - Top Sellers Based on Revenue Generated
 
 <img width="626" height="739" alt="image" src="https://github.com/user-attachments/assets/98d35c2a-b9a8-448e-9489-7a8f0dd1fdeb" />
+
+<img width="498" height="202" alt="image" src="https://github.com/user-attachments/assets/b8fce979-0471-48a2-8b9b-d9f278b9c103" />
+
+<img width="1874" height="809" alt="image" src="https://github.com/user-attachments/assets/5794f51a-a8f6-4e62-82ad-bc6b9039d83d" />
+
+- Top Sellers Based on Total Reviews Scores.
+
+<img width="697" height="744" alt="image" src="https://github.com/user-attachments/assets/fc147a3c-b60c-463a-ab54-0b73fa8b2a84" />
+
+<img width="1870" height="805" alt="image" src="https://github.com/user-attachments/assets/cc42f156-b1a7-42a5-ae7a-b1a343872434" />
 
 
 # 1️⃣1️⃣ Data Serving to Gold Layer :
