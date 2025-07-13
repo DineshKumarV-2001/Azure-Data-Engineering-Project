@@ -106,8 +106,12 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 <img width="1317" height="149" alt="image" src="https://github.com/user-attachments/assets/bdce03cd-8ca3-4551-b056-077866a3d00d" />
 
+# 8️⃣ Data Serving to Silver Layer :
 
-# 8️⃣ Feature Engineering
+<img width="1318" height="396" alt="image" src="https://github.com/user-attachments/assets/5581743e-b05b-4b46-9bae-1e43f76e4e89" />
+
+
+# 9️⃣ Feature Engineering
 
 - Filling Null Columns with Respective Values 
 
@@ -124,7 +128,7 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1367" height="421" alt="image" src="https://github.com/user-attachments/assets/64f51abb-e902-4465-b588-49d6b2aeca4c" />
 
 
-# 9️⃣ Business Insight :
+# 🔟 Business Insight :
 
 - Analyzing delivery performance (Delivery Gap Analysis): 
 
@@ -140,14 +144,16 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1338" height="418" alt="image" src="https://github.com/user-attachments/assets/d9a985d3-9dd5-46dd-93f8-42c898adc401" />
 
 
-# 🔟 Data Serving :
+# 	⓫ (U+246B) Data Serving to Gold Layer :
 
-- Saved the final aggregated datasets to Gold Layer in Delta format.
+- Saved the final aggregated datasets to Gold Layer in Parquet format.
 
 - Partitioned datasets based on Customer Segmentation.
 
+<img width="1305" height="416" alt="image" src="https://github.com/user-attachments/assets/41eb687f-e495-4223-8907-821923c0d9c0" />
 
-  <img width="1319" height="309" alt="image" src="https://github.com/user-attachments/assets/46d8b936-941b-4b90-803e-7cfc564d5b26" />
+
+
 
 
 
