@@ -122,15 +122,21 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 <img width="1349" height="293" alt="image" src="https://github.com/user-attachments/assets/403d1fb7-93a1-492f-9a06-176864a7811d" />
 
 
-
-
-# 🔟 Business Insight :
-
-- Analyzing delivery performance (Delivery Gap Analysis): 
+- Calculating Delivery Gap : 
 
 
 <img width="1340" height="682" alt="image" src="https://github.com/user-attachments/assets/5deb4433-2b4b-4662-8b44-66570790f450" />
 
+
+- Extracting Year From Pruchase Date :
+
+<img width="768" height="377" alt="image" src="https://github.com/user-attachments/assets/2a1be756-f62a-497a-9ba7-690ed94d9a4b" />
+
+![Uploading image.png…]()
+
+
+
+# 🔟 Business Insight :
 
 
 
@@ -140,7 +146,8 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 - Partitioned datasets based on Customer Segmentation.
 
-<img width="1305" height="416" alt="image" src="https://github.com/user-attachments/assets/41eb687f-e495-4223-8907-821923c0d9c0" />
+<img width="641" height="381" alt="image" src="https://github.com/user-attachments/assets/a3af3a88-5bef-4764-a2ad-40651dce30f4" />
+
 
 
 
