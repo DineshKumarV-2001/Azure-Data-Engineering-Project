@@ -132,7 +132,8 @@ Applied .cache() on final joined DataFrame to optimize repeated usage.
 
 <img width="768" height="377" alt="image" src="https://github.com/user-attachments/assets/2a1be756-f62a-497a-9ba7-690ed94d9a4b" />
 
-![Uploading image.png…]()
+<img width="498" height="202" alt="image" src="https://github.com/user-attachments/assets/b8fce979-0471-48a2-8b9b-d9f278b9c103" />
+
 
 
 
